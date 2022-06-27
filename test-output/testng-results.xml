@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T09:38:09 AEST" name="Default suite" finished-at="2022-06-28T09:38:09 AEST" duration-ms="24">
+    <groups>
+    </groups>
+    <test started-at="2022-06-28T09:38:09 AEST" name="Default test" finished-at="2022-06-28T09:38:09 AEST" duration-ms="24">
+      <class name="Execution">
+        <test-method is-config="true" signature="setExcel()[pri:0, instance:Execution@37d4349f]" started-at="2022-06-28T09:38:08 AEST" name="setExcel" finished-at="2022-06-28T09:38:09 AEST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExcel -->
+        <test-method signature="SC_01(java.lang.reflect.Method)[pri:0, instance:Execution@37d4349f]" started-at="2022-06-28T09:38:09 AEST" name="SC_01" finished-at="2022-06-28T09:38:09 AEST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Execution.SC_01(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SC_01 -->
+      </class> <!-- Execution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
